@@ -1,0 +1,1 @@
+irm https://raw.githubusercontent.com/unlimitedera/Clipsurge/main/install.ps1 | iex
