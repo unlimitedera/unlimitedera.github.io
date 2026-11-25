@@ -1,1 +1,3 @@
+# Copyright (c) 2026 unlimitedera. All Rights Reserved.
+# Clipsurge installer entry point. Runs the latest installer from https://github.com/unlimitedera/Clipsurge
 irm https://raw.githubusercontent.com/unlimitedera/Clipsurge/main/install.ps1 | iex
